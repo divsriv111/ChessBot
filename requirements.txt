@@ -1,0 +1,6 @@
+chess==1.7.0
+mss==6.1.0
+numpy==1.21.2
+opencv_python==4.5.4.58
+PyAutoGUI==0.9.53
+python_chess==0.23.9
