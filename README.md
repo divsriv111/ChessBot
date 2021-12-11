@@ -42,6 +42,3 @@ This project is far from perfect yet, it has a few limitations :
 
 Please feel free to help me improve it
 
-## Author
-
-**Stanislas Heili** - *Initial work* - [myGit](https://github.com/Stanou01260/)
